@@ -1,5 +1,7 @@
 # 🌦️ Flask Weather App
 
+🔗 **Live Demo:** https://sagar818.pythonanywhere.com/
+
 A modern and responsive **Weather Web Application** built using **Flask**, **HTML**, **CSS**, and **Bootstrap**.
 
 The application fetches **real-time weather data** and automatically switches between **Day Mode ☀️** and **Night Mode 🌙** based on the local time of the searched city.
